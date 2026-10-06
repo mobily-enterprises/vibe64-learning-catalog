@@ -16,6 +16,12 @@
           "status": "preview",
           "commit": "c55ded9ff123ca19762b7f6e6685adc81c04b405",
           "manifestHash": "4662eaa6edfa7f752ae65db1d1a7ed23fd765f3672c96eda2eae614c0cc0d69d"
+        },
+        {
+          "release": "0.1.4",
+          "status": "preview",
+          "commit": "a34104da05c4744b61888827991b776666fa19d6",
+          "manifestHash": "2a6eb927618ec70ee5a5da484466a8490d35a5a823fec8e07c5bbb564b8debb2"
         }
       ]
     }

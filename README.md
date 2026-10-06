@@ -1,7 +1,7 @@
 # Vibe64 learning catalogue
 
 The initial owner is `mobily-enterprises`. This local preview selects the entire
-`vibe64-getting-started` topic at release `0.1.3`: ONE introduction to using
+`vibe64-getting-started` topic at release `0.1.4`: ONE introduction to using
 Vibe64, with chat quizzes, real learner actions and an AI-controlled SVG. There
 are no further lessons in this sprint. Content is still preview; native teaching
 integration and a real learner trial must pass before it is an accepted release.
