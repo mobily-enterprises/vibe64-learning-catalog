@@ -10,6 +10,12 @@
           "status": "preview",
           "commit": "c30838cc7d5cc513cb6a45f40558ab99b982cb8c",
           "manifestHash": "38361477815fa89afc872a302537bcffd93ba41371429b5b2f3ec96a2d9b5975"
+        },
+        {
+          "release": "0.1.2",
+          "status": "preview",
+          "commit": "c55ded9ff123ca19762b7f6e6685adc81c04b405",
+          "manifestHash": "4662eaa6edfa7f752ae65db1d1a7ed23fd765f3672c96eda2eae614c0cc0d69d"
         }
       ]
     }
