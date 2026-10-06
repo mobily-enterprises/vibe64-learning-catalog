@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "courseId": "getting-started-with-vibe64",
+  "title": "Getting started with Vibe64",
+  "release": "0.1.0",
+  "status": "preview",
+  "topics": [
+    {
+      "topicId": "vibe64-getting-started",
+      "release": "0.1.0"
+    }
+  ]
+}
