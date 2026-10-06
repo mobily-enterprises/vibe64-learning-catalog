@@ -6,10 +6,10 @@
       "repository": "mobily-enterprises/learn-vibe64-getting-started",
       "releases": [
         {
-          "release": "0.1.0",
+          "release": "0.1.1",
           "status": "preview",
-          "commit": "7fdfad55126c2892eedde0e0cc1686cc580ac517",
-          "manifestHash": "6c9ef3956d83f194fd2813d9f55810bbddfeb9c3d3edfda3ae1de81a48620542"
+          "commit": "c30838cc7d5cc513cb6a45f40558ab99b982cb8c",
+          "manifestHash": "38361477815fa89afc872a302537bcffd93ba41371429b5b2f3ec96a2d9b5975"
         }
       ]
     }
