@@ -1,10 +1,13 @@
 # Vibe64 learning catalogue
 
 The initial owner is `mobily-enterprises`. This local preview selects the entire
-`vibe64-getting-started` topic at release `0.1.4`: ONE introduction to using
+`vibe64-getting-started` topic at release `0.1.5`: ONE introduction to using
 Vibe64, with chat quizzes, real learner actions and an AI-controlled SVG. There
-are no further lessons in this sprint. Content is still preview; native teaching
-integration and a real learner trial must pass before it is an accepted release.
+are no further lessons in this sprint. The local lock pins reviewed topic commit
+`d6ea4743ad38166a991396c7741c2bdd9b4fab3b`. Earlier release entries remain intact;
+this local pin does not install, enable or remotely publish the candidate.
+Content is still preview; native teaching integration and a real learner trial
+must pass before it is an accepted release.
 
 Courses select whole topic releases. Do not add lesson selections to a course or
 hand-edit a lock to omit or reorder a topic's lessons.
