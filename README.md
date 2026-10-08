@@ -7,11 +7,12 @@ actions and AI-controlled SVG presentations. Main teaches; Colleague remains
 the general supervisor. The local lock pins reviewed topic commit
 `f249bbac26120345c22865b98257b8f22fcfc09e`. Earlier registry releases and installed
 learner pins remain intact; this local pin does not install, enable or remotely
-publish the candidate. The course remains a local preview. Ordinary Start requires owner installation
+publish the candidate. The course remains a local preview. The server Start operation requires owner installation
 and enablement of its exact release, and a lesson marked published; it does not
 reject a course merely because the course status is preview. Both selected
-lessons are marked published. Isolated author trials use their separate owner
-flow. Native teaching and real learner acceptance remain open.
+lessons are marked published. The browser picker additionally requires a released
+course, so this preview remains unavailable through its ordinary Start control.
+Use the separate owner author-trial flow for browser acceptance before release. Native teaching and real learner acceptance remain open.
 
 Courses select whole topic releases. Do not add lesson selections to a course or
 hand-edit a lock to omit or reorder a topic's lessons.
