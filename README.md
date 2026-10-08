@@ -7,10 +7,11 @@ actions and AI-controlled SVG presentations. Main teaches; Colleague remains
 the general supervisor. The local lock pins reviewed topic commit
 `f249bbac26120345c22865b98257b8f22fcfc09e`. Earlier registry releases and installed
 learner pins remain intact; this local pin does not install, enable or remotely
-publish the candidate. Content is still preview. Ordinary Start refuses a preview
-course; use the authorized owner author-trial flow for its learner acceptance
-before promoting a release. Native teaching and real learner acceptance remain
-open.
+publish the candidate. The course remains a local preview. Ordinary Start requires owner installation
+and enablement of its exact release, and a lesson marked published; it does not
+reject a course merely because the course status is preview. Both selected
+lessons are marked published. Isolated author trials use their separate owner
+flow. Native teaching and real learner acceptance remain open.
 
 Courses select whole topic releases. Do not add lesson selections to a course or
 hand-edit a lock to omit or reorder a topic's lessons.
