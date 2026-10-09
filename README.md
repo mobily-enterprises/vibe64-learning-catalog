@@ -1,12 +1,18 @@
 # Vibe64 learning catalogue
 
 The initial owner is `mobily-enterprises`. This local preview selects the entire
-`vibe64-getting-started` topic at release `0.1.9`: Lesson 0 guides private AI
+`vibe64-getting-started` topic at release `0.1.10`: Lesson 0 guides private AI
 account setup, followed by ONE introduction with chat quizzes, real learner
 actions and AI-controlled SVG presentations. Main teaches; Colleague remains
 the general supervisor. Lesson 1 keeps its Learning Main selected while the
-learner uses the saved Practice project and App preview controls. The 0.1.9 manifest and generated lock pin the reviewed Topic commit
-`3410a4a4547fcdf5d5bc4c618b4732018f21d1aa`. The earlier 0.1.8 release
+learner uses the saved Practice project and App preview controls. Lesson 0
+distinguishes the configured Junior Learning teacher from the requested future
+OpenCode Senior coding model; Senior-only routing does not change Junior,
+a retained Custom teacher or Colleague. The 0.1.10 manifest and generated lock
+pin the reviewed Topic commit `a2ac6fa5bdc44cfe604c2f57a83a2a8c261b43ce`.
+Lesson 0 has a new content hash; Lesson 1 remains unchanged from 0.1.9.
+The earlier 0.1.9 release remains pinned to
+`3410a4a4547fcdf5d5bc4c618b4732018f21d1aa`, and 0.1.8
 remains pinned to `f249bbac26120345c22865b98257b8f22fcfc09e` in its retained
 Git revision and installed snapshots. Earlier registry releases and installed learner pins remain
 intact. Preparing this manifest does not install, enable or remotely publish it.
