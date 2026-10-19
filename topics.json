@@ -4,6 +4,7 @@
     {
       "topicId": "vibe64-getting-started",
       "repository": "mobily-enterprises/learn-vibe64-getting-started",
+      "domainId": "vibe64",
       "releases": [
         {
           "release": "0.1.1",
@@ -45,6 +46,12 @@
           "release": "0.1.10",
           "commit": "a2ac6fa5bdc44cfe604c2f57a83a2a8c261b43ce",
           "manifestHash": "6b4da1ec3ace94c0f0b2b8fd758cd2755e55bc7c7d4139b3b24cfcac8fa8ec84",
+          "status": "preview"
+        },
+        {
+          "release": "0.1.11",
+          "commit": "0c0865c63ce81d7ce501be55d221c2ccda7244b6",
+          "manifestHash": "764b74f192e85809a472a2a208e3703d5dd6d716d5390fd6807f808bb7590cff",
           "status": "preview"
         }
       ]
