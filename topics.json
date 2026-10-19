@@ -34,6 +34,18 @@
           "commit": "f249bbac26120345c22865b98257b8f22fcfc09e",
           "manifestHash": "2a2388895003dd47a321cd41afccfbd6029abc9a4ab5b728af38b562b399aff1",
           "status": "preview"
+        },
+        {
+          "release": "0.1.9",
+          "commit": "3410a4a4547fcdf5d5bc4c618b4732018f21d1aa",
+          "manifestHash": "4427d2bc26328b6c0ef775ef805e2e2e012a5bb14651528161e79041a5feb8c9",
+          "status": "preview"
+        },
+        {
+          "release": "0.1.10",
+          "commit": "a2ac6fa5bdc44cfe604c2f57a83a2a8c261b43ce",
+          "manifestHash": "6b4da1ec3ace94c0f0b2b8fd758cd2755e55bc7c7d4139b3b24cfcac8fa8ec84",
+          "status": "preview"
         }
       ]
     }
