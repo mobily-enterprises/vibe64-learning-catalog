@@ -65,6 +65,12 @@
           "commit": "7fa890a70e2e09faf62d7a3a4ca076304ff63b7f",
           "manifestHash": "c8cd166ca981adc0d5b01108d3d12d3dd0b5ff06d43aa40a52e70f46e6a9f235",
           "status": "preview"
+        },
+        {
+          "release": "0.2.2",
+          "commit": "996c308abc466b7772985f5576197c7ad1c4178c",
+          "manifestHash": "f4e822a71c35d89a284e311dacd53f0beaa1a562b523353fe59b5a15eb4fc61b",
+          "status": "preview"
         }
       ]
     }
