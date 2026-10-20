@@ -53,6 +53,12 @@
           "commit": "0c0865c63ce81d7ce501be55d221c2ccda7244b6",
           "manifestHash": "764b74f192e85809a472a2a208e3703d5dd6d716d5390fd6807f808bb7590cff",
           "status": "preview"
+        },
+        {
+          "release": "0.2.0",
+          "commit": "07e482d07c74d89ed3373894fe1082a7f17722ea",
+          "manifestHash": "7632617db521c96724760735157f82af5eeb0db4cdfb8c6a8d8275ef57988846",
+          "status": "preview"
         }
       ]
     }
