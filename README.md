@@ -25,40 +25,18 @@ practice that the learner can delete with one click.
 
 The 0.4.2 manifest and generated lock pin topic commit
 `1c96ec2f8c1e4cd4b995cb77c91f368df1082760` (manifest hash
-`8e02b90d212adab4d443e84fd27f870df25264387daa290b18058f95680fa2a6`). 0.4.2
-drops the lesson step bar's **Open** button and fold arrow from the lessons
-(Vibe64 removed both; the **Lesson** tab brings the lesson back). 0.4.1
-words Lesson 0 for a learner who has AI: starting it needs the learner's AI,
-which prepares its practice project, so its coding chat line no longer assumes
-none is connected. 0.4.0
-guides every step of **Introduction to Vibe64** with beats that the lesson step
-bar plays: it points at each part of the editor, notices when the learner does
-what a line asks (sending the change request, reloading Preview, opening a
-file, Save, pressing **L**, opening and minimising Colleague) and marks such
-steps done. Its first change, **Check it yourself**, is now passed with **Check
-my work**: the learner's own AI reviews the practice project's changes against
-the step's rubric. Lessons 1–3 are unchanged. 0.3.0
-replaced Lesson 0 (Connect your AI) with **Introduction to Vibe64**, a tour of
-the editor on a new minimal practice project, and trimmed Lessons 1–3 where
-they repeated it; 0.3.1 polishes it after a desktop and phone trial (the tour
-app ignores Vibe64's agent guidance directories, so Current changes and Save
-show only the learner's change). AI setup is no longer a lesson. Earlier
-releases stay listed in `topics.json` with their retained commits (0.4.1 at
-`20ec27410d9a4c6ffe428393f2d5ea123381b088`, 0.4.0 at
-`9fe10e8fc8613bacf587f38800b66811cd27a8a9`, 0.3.1 at
-`a220f097fa781af49332ff9a44437cfe248a9ac0`, 0.3.0 at
-`831af10b660a3b76ac99332caf19c366445ca573`, 0.2.2 at
-`996c308abc466b7772985f5576197c7ad1c4178c`, 0.2.1 at
-`7fa890a70e2e09faf62d7a3a4ca076304ff63b7f`, 0.2.0 at
-`07e482d07c74d89ed3373894fe1082a7f17722ea`, 0.1.11 at
-`0c0865c63ce81d7ce501be55d221c2ccda7244b6`), and
-installed learner pins remain intact: v1 attempts stay readable but cannot be
-continued. Installing 0.4.2 from Learning → Courses (**Install**, or **Update**
-from an earlier release) enables it and disables older enabled releases of the same course
-for new starts only. 0.4.2 needs a Vibe64 version with Learning v2 and guided
-beats with review checks; publish this
-catalogue on `main` only after that version is deployed. Because it is a
-preview, only the workspace owner can start its lessons, with **Try preview**;
+`8e02b90d212adab4d443e84fd27f870df25264387daa290b18058f95680fa2a6`). It is the
+only release listed in `topics.json`; earlier releases were retired. Lesson 0
+introduces the editor on a minimal practice project, and the lesson step bar
+plays its steps as guided beats: it points at each part of the editor, notices
+when the learner does what a line asks and marks such steps done. Its first
+change is passed with **Check my work**: the learner's own AI reviews the
+practice project's changes against the step's rubric. AI setup is not a lesson.
+
+Installing 0.4.2 from Learning → Courses (**Install**, or **Update** from an
+earlier release) enables it and disables older enabled releases of the same
+course for new starts only; installed learner pins remain intact. Because it is
+a preview, only the workspace owner can start its lessons, with **Try preview**;
 members see it but can start it only once a released course is published.
 Real learner acceptance remains open.
 
