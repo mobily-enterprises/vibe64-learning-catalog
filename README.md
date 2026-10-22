@@ -1,7 +1,7 @@
 # Vibe64 learning catalogue
 
 The initial owner is `mobily-enterprises`. This preview selects the entire
-`vibe64-getting-started` topic at release `0.2.2`, grouped under the `vibe64`
+`vibe64-getting-started` topic at release `0.3.1`, grouped under the `vibe64`
 domain. It is a Learning v2 release: every lesson uses lesson format v2,
 a list of short steps the learner reads in the Learning environment (**L**)
 without needing AI. **Teach me** asks Colleague to explain the current step on
@@ -12,31 +12,32 @@ learner-facing **Lesson notes**.
 
 | Code | Lesson |
 | --- | --- |
-| V64-START-00 | Connect your AI (no practice project) |
+| V64-START-00 | Introduction to Vibe64 (practice project: tour app; a tour of the editor) |
 | V64-START-01 | Your first steps in Vibe64 (Preview press checked automatically) |
 | V64-START-02 | Make your first change (code check on `greeting.mjs`; requires 01) |
 | V64-START-03 | Build with a database (SQLite notes app; requires 01) |
 
-Lessons 1–3 each create a practice project, an ordinary project marked as
+Lessons 0–3 each create a practice project, an ordinary project marked as
 practice that the learner can delete with one click.
 
-The 0.2.2 manifest and generated lock pin topic commit
-`996c308abc466b7772985f5576197c7ad1c4178c` (manifest hash
-`f4e822a71c35d89a284e311dacd53f0beaa1a562b523353fe59b5a15eb4fc61b`). 0.2.2
-names **Restart preview** by its label in V64-START-03 (it shares its icon with
-**Reload preview**, which keeps the old server running), so only that lesson's
-hash changes. 0.2.1 corrected 0.2.0's guidance (Show me opens the practice
-Preview, Restart preview and Refresh schema steps, AI Accounts locally and on
-Online) and let the exercise apps run Vibe64's inline Preview bridge; passes
-from 0.2.0 lessons are not credited against it. Earlier releases stay listed in
-`topics.json` with their retained commits (0.2.1 at
+The 0.3.1 manifest and generated lock pin topic commit
+`a220f097fa781af49332ff9a44437cfe248a9ac0` (manifest hash
+`03e27cc0a19f240e59e4361f468ebbe9d310de01f2f3e6ebc6e41a03335b2062`). 0.3.0
+replaced Lesson 0 (Connect your AI) with **Introduction to Vibe64**, a tour of
+the editor on a new minimal practice project, and trimmed Lessons 1–3 where
+they repeated it; 0.3.1 polishes it after a desktop and phone trial (the tour
+app ignores Vibe64's agent guidance directories, so Current changes and Save
+show only the learner's change). AI setup is no longer a lesson. Earlier
+releases stay listed in `topics.json` with their retained commits (0.3.0 at
+`831af10b660a3b76ac99332caf19c366445ca573`, 0.2.2 at
+`996c308abc466b7772985f5576197c7ad1c4178c`, 0.2.1 at
 `7fa890a70e2e09faf62d7a3a4ca076304ff63b7f`, 0.2.0 at
 `07e482d07c74d89ed3373894fe1082a7f17722ea`, 0.1.11 at
 `0c0865c63ce81d7ce501be55d221c2ccda7244b6`), and
 installed learner pins remain intact: v1 attempts stay readable but cannot be
-continued. Installing 0.2.2 from Learning → Courses (**Install**, or **Update**
+continued. Installing 0.3.1 from Learning → Courses (**Install**, or **Update**
 from an earlier release) enables it and disables older enabled releases of the same course
-for new starts only. 0.2.2 needs a Vibe64 version with Learning v2; publish this
+for new starts only. 0.3.1 needs a Vibe64 version with Learning v2; publish this
 catalogue on `main` only after that version is deployed. Because it is a
 preview, only the workspace owner can start its lessons, with **Try preview**;
 members see it but can start it only once a released course is published.
