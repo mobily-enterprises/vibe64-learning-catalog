@@ -1,7 +1,7 @@
 # Vibe64 learning catalogue
 
 The initial owner is `mobily-enterprises`. This preview selects the entire
-`vibe64-getting-started` topic at release `0.4.1`, grouped under the `vibe64`
+`vibe64-getting-started` topic at release `0.4.2`, grouped under the `vibe64`
 domain. It is a Learning v2 release: every lesson uses lesson format v2,
 a list of short steps the learner reads in the Learning environment (**L**)
 without needing AI. **Teach me** asks Colleague to explain the current step on
@@ -23,9 +23,11 @@ learner-facing **Lesson notes**.
 Lessons 0–3 each create a practice project, an ordinary project marked as
 practice that the learner can delete with one click.
 
-The 0.4.1 manifest and generated lock pin topic commit
-`20ec27410d9a4c6ffe428393f2d5ea123381b088` (manifest hash
-`032206872028cb2274242ecb3a70abb4295fd6ca29974b2dc32414fc44a2c995`). 0.4.1
+The 0.4.2 manifest and generated lock pin topic commit
+`1c96ec2f8c1e4cd4b995cb77c91f368df1082760` (manifest hash
+`8e02b90d212adab4d443e84fd27f870df25264387daa290b18058f95680fa2a6`). 0.4.2
+drops the lesson step bar's **Open** button and fold arrow from the lessons
+(Vibe64 removed both; the **Lesson** tab brings the lesson back). 0.4.1
 words Lesson 0 for a learner who has AI: starting it needs the learner's AI,
 which prepares its practice project, so its coding chat line no longer assumes
 none is connected. 0.4.0
@@ -41,7 +43,8 @@ the editor on a new minimal practice project, and trimmed Lessons 1–3 where
 they repeated it; 0.3.1 polishes it after a desktop and phone trial (the tour
 app ignores Vibe64's agent guidance directories, so Current changes and Save
 show only the learner's change). AI setup is no longer a lesson. Earlier
-releases stay listed in `topics.json` with their retained commits (0.4.0 at
+releases stay listed in `topics.json` with their retained commits (0.4.1 at
+`20ec27410d9a4c6ffe428393f2d5ea123381b088`, 0.4.0 at
 `9fe10e8fc8613bacf587f38800b66811cd27a8a9`, 0.3.1 at
 `a220f097fa781af49332ff9a44437cfe248a9ac0`, 0.3.0 at
 `831af10b660a3b76ac99332caf19c366445ca573`, 0.2.2 at
@@ -50,9 +53,9 @@ releases stay listed in `topics.json` with their retained commits (0.4.0 at
 `07e482d07c74d89ed3373894fe1082a7f17722ea`, 0.1.11 at
 `0c0865c63ce81d7ce501be55d221c2ccda7244b6`), and
 installed learner pins remain intact: v1 attempts stay readable but cannot be
-continued. Installing 0.4.1 from Learning → Courses (**Install**, or **Update**
+continued. Installing 0.4.2 from Learning → Courses (**Install**, or **Update**
 from an earlier release) enables it and disables older enabled releases of the same course
-for new starts only. 0.4.1 needs a Vibe64 version with Learning v2 and guided
+for new starts only. 0.4.2 needs a Vibe64 version with Learning v2 and guided
 beats with review checks; publish this
 catalogue on `main` only after that version is deployed. Because it is a
 preview, only the workspace owner can start its lessons, with **Try preview**;
