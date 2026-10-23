@@ -8,6 +8,10 @@
     {
       "topicId": "vibe64-getting-started",
       "release": "0.5.0"
+    },
+    {
+      "topicId": "vibe64-online-workspace",
+      "release": "0.1.0"
     }
   ],
   "orientation": "V64-WELCOME"
