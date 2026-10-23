@@ -1,7 +1,7 @@
 # Vibe64 learning catalogue
 
 The initial owner is `mobily-enterprises`. This preview selects the entire
-`vibe64-getting-started` topic at release `0.4.2`, grouped under the `vibe64`
+`vibe64-getting-started` topic at release `0.4.3`, grouped under the `vibe64`
 domain. It is a Learning v2 release: every lesson uses lesson format v2,
 a list of short steps the learner reads in the Learning environment (**L**)
 without needing AI. **Teach me** asks Colleague to explain the current step on
@@ -23,20 +23,23 @@ learner-facing **Lesson notes**.
 Lessons 0–3 each create a practice project, an ordinary project marked as
 practice that the learner can delete with one click.
 
-The 0.4.2 manifest and generated lock pin topic commit
-`1c96ec2f8c1e4cd4b995cb77c91f368df1082760` (manifest hash
-`8e02b90d212adab4d443e84fd27f870df25264387daa290b18058f95680fa2a6`). It is the
-only release listed in `topics.json`; earlier releases were retired. Lesson 0
+The 0.4.3 manifest and generated lock pin topic commit
+`c4944f5feb2188e27dd69d1b2eee15160cb45875` (manifest hash
+`b7835d4b580f651abe367c60ef81b0f03834648a99ed8a3f3b0316adcc2bcd9e`). It is the
+only release listed in `topics.json`; earlier releases were retired. 0.4.3
+points Lesson 0 at the lesson step bar's **Lesson** button and the header's
+**Preview** | **Dash** switch; it needs a Vibe64 version with that step bar, so
+publish it on `main` only after that version is deployed. Lesson 0
 introduces the editor on a minimal practice project, and the lesson step bar
 plays its steps as guided beats: it points at each part of the editor, notices
 when the learner does what a line asks and marks such steps done. Its first
 change is passed with **Check my work**: the learner's own AI reviews the
 practice project's changes against the step's rubric. AI setup is not a lesson.
 
-Installing 0.4.2 from Learning → Courses (**Install**, or **Update** from an
+Installing 0.4.3 from Learning → Courses (**Install**, or **Update** from an
 earlier release) enables it and disables older enabled releases of the same
 course for new starts only; installed learner pins remain intact. Because it is
-a preview, only the workspace owner can start its lessons, with **Try preview**;
+a preview, only the workspace owner can start its lessons, with **Start lesson**;
 members see it but can start it only once a released course is published.
 Real learner acceptance remains open.
 

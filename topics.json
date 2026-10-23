@@ -7,9 +7,9 @@
       "domainId": "vibe64",
       "releases": [
         {
-          "release": "0.4.2",
-          "commit": "1c96ec2f8c1e4cd4b995cb77c91f368df1082760",
-          "manifestHash": "8e02b90d212adab4d443e84fd27f870df25264387daa290b18058f95680fa2a6",
+          "release": "0.4.3",
+          "commit": "c4944f5feb2188e27dd69d1b2eee15160cb45875",
+          "manifestHash": "b7835d4b580f651abe367c60ef81b0f03834648a99ed8a3f3b0316adcc2bcd9e",
           "status": "preview"
         }
       ]
