@@ -7,9 +7,22 @@
       "domainId": "vibe64",
       "releases": [
         {
-          "release": "0.4.2",
-          "commit": "1c96ec2f8c1e4cd4b995cb77c91f368df1082760",
-          "manifestHash": "8e02b90d212adab4d443e84fd27f870df25264387daa290b18058f95680fa2a6",
+          "release": "0.5.0",
+          "commit": "714b33d83cda7d05239f6d4162c70a3ca7edd03f",
+          "manifestHash": "ef29094346f982c317bac2a750f726bbe73dfc36da5e37d47ef5360265ddf087",
+          "status": "preview"
+        }
+      ]
+    },
+    {
+      "topicId": "vibe64-online-workspace",
+      "repository": "mobily-enterprises/learn-vibe64-online-workspace",
+      "domainId": "vibe64",
+      "releases": [
+        {
+          "release": "0.1.0",
+          "commit": "0bc2462ce835365377f8f37d24078ba88bbae498",
+          "manifestHash": "930f1ffae15ccdfeb860ed26cf8de87d2c15f9bd591131a35a51f40cafb25db9",
           "status": "preview"
         }
       ]
