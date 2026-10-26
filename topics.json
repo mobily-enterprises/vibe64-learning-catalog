@@ -7,9 +7,9 @@
       "domainId": "vibe64",
       "releases": [
         {
-          "release": "0.5.0",
-          "commit": "714b33d83cda7d05239f6d4162c70a3ca7edd03f",
-          "manifestHash": "ef29094346f982c317bac2a750f726bbe73dfc36da5e37d47ef5360265ddf087",
+          "release": "0.5.1",
+          "commit": "2ff61fd3f31c7453e79d2a5b63aaeb5922b9f803",
+          "manifestHash": "35e2e71888b897274c897e8c8ab479e7e696eb8f80e0d45c3875dbab220c701c",
           "status": "preview"
         }
       ]
@@ -20,9 +20,9 @@
       "domainId": "vibe64",
       "releases": [
         {
-          "release": "0.1.0",
-          "commit": "0bc2462ce835365377f8f37d24078ba88bbae498",
-          "manifestHash": "930f1ffae15ccdfeb860ed26cf8de87d2c15f9bd591131a35a51f40cafb25db9",
+          "release": "0.1.1",
+          "commit": "e180238dfd9ed2f463b0960bc027f6b72896a6b7",
+          "manifestHash": "683284bc874d64ae12f89135aee9c174a1c4d146708109c857b767e160929c41",
           "status": "preview"
         }
       ]

@@ -3,8 +3,8 @@
 The initial owner is `mobily-enterprises`. This preview course selects two whole
 topics, both grouped under the `vibe64` domain:
 
-- `vibe64-getting-started` at release `0.5.0`;
-- `vibe64-online-workspace` at release `0.1.0` (hosted Vibe64 only; Courses
+- `vibe64-getting-started` at release `0.5.1`;
+- `vibe64-online-workspace` at release `0.1.1` (hosted Vibe64 only; Courses
   leaves these lessons out where their screens do not exist).
 
 Every lesson uses lesson format 3: short steps the learner reads in the
@@ -30,20 +30,18 @@ learner's own **Done**. Each lesson has learner-facing **Lesson notes**.
 Lessons 0–3 each create a practice project, an ordinary project marked as
 practice that the learner can delete with one click.
 
-The 0.5.0 lock pins `vibe64-getting-started` commit
-`714b33d83cda7d05239f6d4162c70a3ca7edd03f` (manifest hash
-`ef29094346f982c317bac2a750f726bbe73dfc36da5e37d47ef5360265ddf087`) and
-`vibe64-online-workspace` commit `0bc2462ce835365377f8f37d24078ba88bbae498`
+The 0.5.1 lock pins `vibe64-getting-started` commit
+`2ff61fd3f31c7453e79d2a5b63aaeb5922b9f803` (manifest hash
+`35e2e71888b897274c897e8c8ab479e7e696eb8f80e0d45c3875dbab220c701c`) and
+`vibe64-online-workspace` commit `e180238dfd9ed2f463b0960bc027f6b72896a6b7`
 (manifest hash
-`930f1ffae15ccdfeb860ed26cf8de87d2c15f9bd591131a35a51f40cafb25db9`). These are
-the latest lesson commits whose text matches Vibe64 0.1.40 (lesson format 3,
-the step bar's **Lesson** button). Later lesson commits describe the Lesson
-toggle and the step bar's **Open practice project**, which ship with the next
-Vibe64 release; pin them in a later course release once that is deployed.
-They are the only releases listed in `topics.json`; earlier releases were
-retired.
+`683284bc874d64ae12f89135aee9c174a1c4d146708109c857b767e160929c41`). Their text
+matches the deployed Vibe64: lesson format 3, the **Lesson** toggle that covers
+Preview or Dash, the step bar's labelled **Back** / **Next** and **Open practice
+project**, and a lesson pane without Previous/Next step links. They are the only
+releases listed in `topics.json`; earlier releases were retired.
 
-Installing 0.5.0 from Learning → Courses (**Install**, or **Update** from an
+Installing 0.5.1 from Learning → Courses (**Install**, or **Update** from an
 earlier release) enables it and disables older enabled releases of the same
 course for new starts only; installed learner pins remain intact. Because it is
 a preview, only the workspace owner can start its lessons, with **Try preview**;
