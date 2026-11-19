@@ -4,7 +4,7 @@ The initial owner is `mobily-enterprises`. This preview course selects two whole
 topics, both grouped under the `vibe64` domain:
 
 - `vibe64-getting-started` at release `0.5.2`;
-- `vibe64-online-workspace` at release `0.1.2` (hosted Vibe64 only; Courses
+- `vibe64-online-workspace` at release `0.1.4` (hosted Vibe64 only; Courses
   leaves these lessons out where their screens do not exist).
 
 Every lesson uses lesson format 3: short steps the learner reads in the
@@ -25,24 +25,26 @@ learner's own **Done**. Each lesson has learner-facing **Lesson notes**.
 | V64-START-01 | Your first steps in Vibe64 (Preview press checked automatically) |
 | V64-START-02 | Make your first change (code check on `greeting.mjs`; requires 01) |
 | V64-START-03 | Build with a database (SQLite notes app; requires 01) |
-| V64-WORKSPACE-01 to 05 | Your hosted Vibe64 workspace (five studio lessons; three publish the sign app to Production for real) |
+| V64-WORKSPACE-01 to 05 | Your hosted Vibe64 workspace (five studio lessons; three publish the sign app for real from the Deploy page) |
 
 Lessons 0–3 each create a practice project, an ordinary project marked as
 practice that the learner can delete with one click.
 
-The 0.5.2 lock pins `vibe64-getting-started` commit
+The 0.5.3 lock pins `vibe64-getting-started` commit
 `44a2fee535ef0f91f1b148cbad33c61ba0355665` (manifest hash
 `c5b32d59ac4b8e5c336a7bd138f56be6950cb06d532ba5504e98c4b6d99aac70`) and
-`vibe64-online-workspace` commit `0f726d8e6548b0adb65d86ad824f3883e40acf96`
+`vibe64-online-workspace` commit `aa99f6c29144c8c1726b6a08b6a15c21fbab910f`
 (manifest hash
-`7fdebc3406c9e98eddbb4e9399014b1d3317d59c0d53ba408484459d6b0f1ce7`). Their text
+`c8de0ada6bc731797761de75da01c2e82336fa5cc9b253411629f9f4fe46a82d`). Their text
 matches the deployed Vibe64: lesson format 3, the **Lesson** toggle that covers
 Preview or Dash, the step bar's labelled **Back** / **Next** and **Open practice
-project**, a lesson pane without Previous/Next step links, and the Production page's
-**Publish to production**, **Test copy** and **Switch to Live**. They are the only
-releases listed in `topics.json`; earlier releases were retired.
+project**, a lesson pane without Previous/Next step links, and the hosted
+**Deploy** page (Dashboard → Deploy) with **Publish to staging** for the Staging
+environment, the Production card's **Publish to production**, **Test copy** and
+**Switch to Live**. They are the only releases listed in `topics.json`; earlier
+releases were retired.
 
-Installing 0.5.2 from Learning → Courses (**Install**, or **Update** from an
+Installing 0.5.3 from Learning → Courses (**Install**, or **Update** from an
 earlier release) enables it and disables older enabled releases of the same
 course for new starts only; installed learner pins remain intact. Because it is
 a preview, only the workspace owner can start its lessons, with **Try preview**;
