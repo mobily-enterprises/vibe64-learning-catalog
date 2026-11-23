@@ -20,9 +20,9 @@
       "domainId": "vibe64",
       "releases": [
         {
-          "release": "0.1.4",
-          "commit": "aa99f6c29144c8c1726b6a08b6a15c21fbab910f",
-          "manifestHash": "c8de0ada6bc731797761de75da01c2e82336fa5cc9b253411629f9f4fe46a82d",
+          "release": "0.1.5",
+          "commit": "6496576a845738576f11d813dc1b862d8a24e694",
+          "manifestHash": "c12080d78cab77d2a23a76e543fa36cfe529be60fa3112c3d742def7a5e1bdb0",
           "status": "preview"
         }
       ]
